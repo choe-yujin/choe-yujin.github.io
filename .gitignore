@@ -26,3 +26,9 @@ package-lock.json
 
 # obsidian
 .obsidian/*
+
+
+
+
+# Ignore Smart Environment folder
+.smart-env
